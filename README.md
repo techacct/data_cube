@@ -1,1 +1,3 @@
 # data_cube
+
+A data cube (also called a business intelligence cube or OLAP cube) is a data structure optimized for fast and efficient analysis. It enables consolidating or aggregating relevant data into the cube and then drilling down, slicing and dicing, or pivoting data to view it from different angles. Essentially, a cube is a section of data built from tables in a database that contains calculations. OLAP cubes are typically grouped according to business function, containing data relevant to each function
